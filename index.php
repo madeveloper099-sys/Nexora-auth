@@ -631,6 +631,10 @@ a:hover {
                 <?= $activeTab === "register" ? "CREATE ACCOUNT →" : "SIGN IN TO NEXORA →" ?>
             </button>
 
+            <a href="forgot-password.php">
+    Forgot Password?
+</a>
+
         </form>
 
         <div class="switch">
